@@ -4,7 +4,6 @@ I am a software engineer, specialized in __iOS and Flutter mobile app__ developm
 
 _I am also a landscape photographer 📷 😉_
 
-- 🔭 I’m currently looking for a new job! Let's work together 🤗
 - 🌱 I’m currently learning SwiftUI
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Flutter (or photography)!
