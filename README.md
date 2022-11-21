@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-I am a software engineer, specialized in __iOS and Flutter mobile app__ development.
+I am an __iOS__ software engineer. I have been developing with __SwiftUI__ since 2020
 
 _I am also a landscape photographer 📷 😉_
 
-- 🌱 I’m currently learning SwiftUI
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about Flutter (or photography)!
 - ⚡ Fun fact: I am addicted to everything related to Iceland 🥶
